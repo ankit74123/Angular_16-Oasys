@@ -1,0 +1,61 @@
+1.Introduction to Angular
+-------------------------
+
+  Angular is one of the most popular JavaScript framework for building client side applications.
+
+  1.What is Angular ?
+  2.What is a single page application ?
+  3.Why you should use angular ?
+  4.Different versions of angular ?
+
+  What is Angular ?
+  =================
+  Angular is a development platform for building a single-page application for mobile and desktop .  
+  It is used for building client-side applications using HTML , CSS and a programming language like JavaScript or TypeScript.
+  Angular is not a programming language in itself like JavaScript . It is a framework of JavaScript.
+
+  Angular is a JavaScript Framework which allows us to create Single Page Applications(SPA).
+
+  Framework
+  =========
+  A framework is like a platform for developing software applications.
+  A framework can have pre-defined classes and functions that can be re-used to add several functionalities , which otherwise we would have to write from scratch by our own. 
+
+  A framework is a collection of pre-defined classes and methods which provides APIs for performing different operations when used in an application.
+
+  Single Page Application
+  =======================
+  A single page application is a web application , which has only one HTML page .
+  When we navigate around , only the content of that HTML page changes . The page itself never changes.
+
+  Advantage of SPA 
+  ================
+  Since we are using JavaScript to change the content of the page , it is much faster . Here we are not reaching out to the server to request a new piece of HTML data , every time 
+  we navigate to a different URL.
+
+  This allows us to create an application which is fast and reactive.
+
+  Limitations of JavaScript/jQuery
+  ================================
+  Vanilla JavaScript or jQuery code becomes hard to maintain and we will need a way to properly structure our application.
+  A lot of applications built using vanilla JavaScript / jQuery is hard to test.
+  There are some functionalities which we will have to write from scratch when using JavaScript / jQuery.
+
+  Advantage of using Angular
+  ==========================
+  Angular gives our application a clean and loosely coupled structure that is easy to understand and maintain.
+  It brings a lot of utility code which can be re-used in lot of applications . Especially , when dealing with user navigation & browser history.
+  Application built with Angular are more testable.
+
+  Versions of Angular
+  ===================
+  Angular JS
+  Angular JS was not designed with the need of todays applications.
+  Angular 2 was completely re-written from ground up.
+  It fixed all the issues which Angular 1 had.
+  There has not been major changes after the release of Angular 2.
+  Now the latest version is Angular 16
+
+  05.07.2024
+ 
+  ============

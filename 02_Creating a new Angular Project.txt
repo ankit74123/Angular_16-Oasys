@@ -1,0 +1,7 @@
+02_Creating a new Angular Project
+=================================
+
+  Install NODE JS on a development machine.
+  Install Angular CLI globally.
+  Create an Angular project.
+  Compile & Run Angular Project. 
